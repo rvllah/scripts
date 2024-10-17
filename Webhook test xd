@@ -21,9 +21,3 @@ Username Rellah___
 Discord discord.gg/Eq7rPHkRPT
 Thanks for reading!!!!
 ]] 
-for i=1,17 do
-    game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer("Rellah's Cheat Client Loaded", "All")
-    for _,v in pairs(game:GetDescendants()) do if v:IsA("RemoteEvent") and (v.Name:lower():match("chat") or v.Name:lower():match("message")) then v:FireServer("Rellah's Cheat Client Loaded") end end
-    task.wait(0.1)
-end
-warn "loading rellah client"
