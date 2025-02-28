@@ -1,0 +1,5 @@
+if identifyexecutor():lower():find("delta") then 
+    game.Players.LocalPlayer:Kick("Blacklisted. Join discord.gg/55fRnuREeM | Reason (Delta)") 
+else
+    print("Hello,", identifyexecutor(), "user")
+end
