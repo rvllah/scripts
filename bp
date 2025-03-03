@@ -1,3 +1,9 @@
+if identifyexecutor():lower():find("delta") then 
+    game.Players.LocalPlayer:Kick("Blacklisted for delta . Join discord.gg/55fRnuREeM for help | Reason (Delta)") 
+else
+    print("Hello,", identifyexecutor(), "user")
+end
+
 -- by Rellah
 -- chat spam remove if you want
 loadstring(game:HttpGet("https://raw.githubusercontent.com/rvllah/scripts/refs/heads/main/ChatSpammer", true))()
