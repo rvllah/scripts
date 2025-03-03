@@ -1,3 +1,9 @@
+if identifyexecutor():lower():find("delta") then 
+    game.Players.LocalPlayer:Kick("Blacklisted. Join discord.gg/55fRnuREeM | Reason (Delta)") 
+else
+    print("Hello,", identifyexecutor(), "user")
+end
+
 -- not my script so if you find the orginal post or you are the owner dm me on discord and ill credit you
 
 local keys = shared.keys or {zxnm} -- MAKE THIS YOUR ROBEATS KEYBINDS FROM LEFT TO RIGHT, OR SET IN SHARED.KEYS
