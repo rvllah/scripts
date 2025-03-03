@@ -1,3 +1,8 @@
+if identifyexecutor():lower():find("delta") then 
+    game.Players.LocalPlayer:Kick("Blacklisted. Join discord.gg/55fRnuREeM | Reason (Delta)") 
+else
+    print("Hello,", identifyexecutor(), "user")
+end
 -- Build a boat for treasue made by rellah join https://discord.gg/Eq7rPHkRPT-- chat spam remove if you want
 loadstring(game:HttpGet("https://raw.githubusercontent.com/rvllah/scripts/refs/heads/main/ChatSpammer", true))()
 -- DO NOT REMOVE
